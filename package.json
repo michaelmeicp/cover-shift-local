@@ -1,0 +1,1 @@
+{"name":"cover-shift","version":"0.1.0","private":true,"type":"module","description":"臨時補班 · 本機合成示範","engines":{"node":">=22.13.0"},"scripts":{"start":"node server.mjs","test":"node --test","check":"node --check server.mjs && node --check public/app.js && node --test"}}
